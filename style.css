@@ -46,6 +46,14 @@ body {
     position: relative;
 }
 
+.options:hover {
+    color: #77acc9;
+}
+
+.options:active {
+    color: black;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -93,7 +101,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #77acc9;
     color: #ffffff;
-    min-height: 280px;
+    min-height: 300px;
 }
 
 .online-reputation-management {
@@ -235,4 +243,12 @@ p {
     background-color: #1a3a4b;
     padding: 5px;
     margin: 5px;
+}
+
+.button:hover {
+    background-color: #77acc9;
+}
+
+.button:active {
+    color: black;
 }
