@@ -1,4 +1,3 @@
-# horiseonsss.com
 Horiseon Social Solution Services, Inc. Website
 
 This project involved taking an existing webpage and improving the web accessibility of the site. I altered the layout of content and created more user-friendly features to make this website easier to visit and use.
